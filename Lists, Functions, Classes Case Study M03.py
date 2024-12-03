@@ -1,3 +1,9 @@
+#Alexander Eyermann
+#12/3/2024
+#This program uses a class to hold Vehicle information in automobile. This is contained within a superclass but is just being assigned to car.
+#The class holds the information on a vehicle and the ability to display that held info
+#The user will be asked to enter in 5 prompts about their car, and then it will be given back to them through the info stored in the class
+
 class Vehicle:
     def __init__(self, vehicleType):
         self.vehicleType = vehicleType

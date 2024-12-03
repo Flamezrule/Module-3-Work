@@ -19,8 +19,6 @@ class Automobile(Vehicle):
         print(f"Number of Doors: {self.doors}")
         print(f"Type of Roof: {self.roof}")
 
-#def main():
-
 print("Please Enter the details of your car")
 
     #Instructions say to just make the vehicle Type be Car
